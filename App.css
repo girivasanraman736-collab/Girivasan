@@ -1,0 +1,22 @@
+
+.App {
+  text-align: center;
+  margin: 30px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+ul {
+  list-style-type: none;
+}
